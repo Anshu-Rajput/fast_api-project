@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b78b6c1-41e9-4ed5-9198-17000dd249e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/account/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/account/forms/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/account/forms/registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/account/forms/send_verifymail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/account/forms/verify_mail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/account/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/account/registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/account/route.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/account/sendverifyemail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/account/verifymail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/general/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/market/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/shared/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/shared/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docs/photo_2021-07-10_11-24-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docs/photo_2021-07-10_11-24-33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docs/photo_2021-07-10_11-39-52.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1vWQagL5UCxcuU4VA5zIOnC9fq7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b78b6c1-41e9-4ed5-9198-17000dd249e3" name="Default Changelist" comment="" />
+      <created>1626675430422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626675430422</updated>
+    </task>
+    <servers />
+  </component>
+</project>
