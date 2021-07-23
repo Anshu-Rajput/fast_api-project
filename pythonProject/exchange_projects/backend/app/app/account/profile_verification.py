@@ -9,13 +9,12 @@ async def profile_verification(body_data:BasicProfileVerificationRequestForm=Dep
     try:
         conn=return_connection()
         cursor=conn.cursor()
-        cursor.callproc('Sp_basicprofileinfo',(body_data.mode, body_data.id, body_data.userid, body_data.nationality, body_data.fullname, body_data.birthdate, body_data.address, body_data.city, body_data.pin, body_data.pan))
-        result=[]
-        for i in cursor:
-            result=[*i]
-        conn.commit(
+        # cursor.callproc('Sp_basicprofileinfo',(body_data.mode, body_data.id, body_data.userid, body_data.nationality, body_data.fullname, body_data.birthdate, body_data.address, body_data.city, body_data.pin, body_data.pan))
+        # result=[]
+        # for i in cursor:
+        #     result=[*i]
+        # conn.commit()
+        #return result
 
-        )
-        return result
     except Exception as e:
         print(e)

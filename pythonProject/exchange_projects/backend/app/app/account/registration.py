@@ -54,8 +54,15 @@ def sendmail(email, html):
     #---->show all data
 @account.post("/account/register/showall")
 async def display():
-    conn=return_connection()
-    cursor=conn.cursor()
-    cursor.execute("select * from temp_membermaster")   #temp_membermaster
-    result=cursor.fetchall()
-    return  result
+     conn=return_connection()
+     cursor=conn.cursor()
+     cursor.execute("select * from membermaster")  # temp_membermaster
+     result = cursor.fetchall()
+     return result
+
+
+     # rows = cursor.fetchall()
+     # columns = [column[0] for column in cursor.description]
+     # for i in rows:
+     #     list.append(dict(zip(columns, i)))
+     # return list
